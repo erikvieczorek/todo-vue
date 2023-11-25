@@ -62,5 +62,3 @@ const cadastraTarefa = () => {
     <ListaDeTarefas :tarefas="getTarefasFiltradas()"/>
   </div>
 </template>
-
-
